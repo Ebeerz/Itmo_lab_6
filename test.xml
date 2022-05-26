@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+    <Product id="2">
+        <name>Свитлогорье</name>
+        <coordinateX>1</coordinateX>
+        <coordinateY>1.0</coordinateY>
+        <date>2022-02-15T12:37:41.2631571</date>
+        <price>49</price>
+        <partNumber>12434</partNumber>
+        <manufactureCost>18.2</manufactureCost>
+        <unitOfMeasure>MILLIGRAMS</unitOfMeasure>
+        <organization>
+            <id>2</id>
+            <name>Свитлогорье</name>
+            <fullName>ТМ Свитлогорье</fullName>
+            <annualTurnover>9.1024019E8</annualTurnover>
+            <type>COMMERCIAL</type>
+            <adress>пр. Юрия Гагарина, 34, Санкт-Петербург, Ленинградская обл., 196143</adress>
+        </organization>
+    </Product>
+</Products>

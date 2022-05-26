@@ -1,0 +1,4 @@
+show
+clear
+info
+delete_by_id 1
